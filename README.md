@@ -1,4 +1,5 @@
-Imersão Front-End 2a Edição -> Alura
+Immersion Front-End 2a Edition -> Alura
+Spotify landing page
 
 - Html
 - Css
